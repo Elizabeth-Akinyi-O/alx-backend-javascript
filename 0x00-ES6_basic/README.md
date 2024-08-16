@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/6977c566-bd0f-40f5-9a88-d811459d1c7a)
+
+
 Learning Objectives:
 
 - What ES6 is
