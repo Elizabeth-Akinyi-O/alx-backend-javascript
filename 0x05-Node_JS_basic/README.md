@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/5f020ae2-8152-4f06-ab25-c6c20dc354aa)
+
 Learning Objectives:
 
 - run javascript using NodeJS
