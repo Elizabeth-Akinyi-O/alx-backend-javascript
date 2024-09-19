@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c9039a4c-6da6-4610-896d-83715ac22a5b)
+
+
 Learning Objectives:
 
 - How to use Mocha to write a test suite
