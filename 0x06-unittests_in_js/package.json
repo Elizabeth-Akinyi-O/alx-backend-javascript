@@ -1,0 +1,14 @@
+{
+  "name": "0x06. Unittests in JS",
+  "version": "1.0.0",
+  "description": "How to use Mocha to write a test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Elizabeth Akinyi",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
